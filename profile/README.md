@@ -17,11 +17,11 @@ StackGuardian helps enterprises deliver and operate cloud infrastructure through
 
 | Repository | Use it to |
 |---|---|
-| [terraform-provider-stackguardian](https://github.com/StackGuardian/terraform-provider-stackguardian) | Manage StackGuardian resources with Terraform |
+| [stackguardian-mcp](https://github.com/StackGuardian/add-sg-mcp) | Install the StackGuardian MCP server and skills for AI agents |
 | [sg-cli](https://github.com/StackGuardian/sg-cli) | Work with StackGuardian from the command line |
+| [terraform-provider-stackguardian](https://github.com/StackGuardian/terraform-provider-stackguardian) | Manage StackGuardian resources with Terraform |
 | [sg-sdk-go](https://github.com/StackGuardian/sg-sdk-go) | Call StackGuardian APIs from Go |
 | [sg-runner](https://github.com/StackGuardian/sg-runner) | Run workflows on your own infrastructure with a private runner |
-| [add-sg-mcp](https://github.com/StackGuardian/add-sg-mcp) | Install the StackGuardian MCP server and skills for AI agents |
 
 ## Links
 
