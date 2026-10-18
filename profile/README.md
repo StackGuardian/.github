@@ -3,7 +3,7 @@
   <img alt="StackGuardian" src="assets/logo-light.svg" height="40">
 </picture>
 
-StackGuardian helps enterprises deliver and operate cloud infrastructure through orchestration, policy-driven automation, standardization and self-service.
+One governed path from infrastructure change to production - for humans and AI alike.
 
 ## Tirith
 
