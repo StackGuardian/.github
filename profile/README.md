@@ -7,7 +7,7 @@ One governed path from infrastructure change to production - for humans and AI a
 
 ## Tirith
 
-[Tirith](https://github.com/StackGuardian/tirith) is our open-source policy engine. It reads the plan your pipeline already produces (`terraform show -json`), checks it against your policies, and exits non-zero so a violating change never reaches `apply`. It's Apache-2.0, needs no account, and runs in the CI you already use.
+[Tirith](https://github.com/StackGuardian/tirith) is our open-source policy engine for the AI generated and operated IaC. It reads the plan your pipeline already produces (`terraform show -json`), checks it against your policies, and exits non-zero so a violating change never reaches `apply`. It's Apache-2.0, needs no account, and runs in the CI you already use.
 
 - [Tirith](https://github.com/StackGuardian/tirith): CLI and policy engine
 - [tirith-iac-governance-action](https://github.com/StackGuardian/tirith-iac-governance-action): Tirith as a GitHub Actions step
