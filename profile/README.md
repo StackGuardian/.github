@@ -17,7 +17,7 @@ One governed path from infrastructure change to production - for humans and AI a
 
 | Repository | Use it to |
 |---|---|
-| [stackguardian-mcp](https://github.com/StackGuardian/add-sg-mcp) | Install the StackGuardian MCP server and skills for AI agents |
+| [stackguardian-mcp](https://github.com/StackGuardian/add-sg-mcp) | Deploy Terraform, OpenTofu and Ansible with AI agents in minutes. |
 | [sg-cli](https://github.com/StackGuardian/sg-cli) | Work with StackGuardian from the command line |
 | [terraform-provider-stackguardian](https://github.com/StackGuardian/terraform-provider-stackguardian) | Manage StackGuardian resources with Terraform |
 | [sg-sdk-go](https://github.com/StackGuardian/sg-sdk-go) | Call StackGuardian APIs from Go |
